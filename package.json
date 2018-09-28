@@ -1,0 +1,23 @@
+{
+  "name": "hw14scrape",
+  "version": "1.0.0",
+  "description": "news scrapper app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BM0v0/HW14scrape.git"
+  },
+  "keywords": [
+    "scrape"
+  ],
+  "author": "Brandon Moran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BM0v0/HW14scrape/issues"
+  },
+  "homepage": "https://github.com/BM0v0/HW14scrape#readme"
+}
